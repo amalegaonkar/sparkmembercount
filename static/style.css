@@ -1,0 +1,46 @@
+body {
+    overflow: hidden;
+    margin: 0;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica;
+}
+
+#indicator {
+    position: absolute;
+    left: -97%;
+    height: 9%;
+    width: 100%;
+    top: 58%;
+}
+
+h1 {
+    position: absolute;
+    display: inline-block;
+    width: 100%;
+    text-align: center;
+    font-size: 10em;
+    left: 0px;
+    margin: 0px;
+}
+
+h1#number {
+
+    top: 70%;
+
+}
+
+h1#text {
+    top: 5%;
+    font-size: 6em;
+}
+
+h1#phone {
+    top: 22%
+}
+
+.dark{
+    background: #063b5b;
+}
+.bg{
+    color: #fff;
+}

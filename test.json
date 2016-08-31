@@ -1,0 +1,542 @@
+{
+	"items": [
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMjg1YTY0ODAtNmJhNC0xMWU2LWJmY2MtMTFjODNlM2MxYzc1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "all my previously mentioned issues with Devvie are gone now that I updated to the 2.0.x version of Spark.  ",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YzhjZDlkOC0xZTY1LTQ1MTctYjE0My02MTQ2MDg0MWM2Mjk",
+			"personEmail": "jamegill@cisco.com",
+			"created": "2016-08-26T15:45:47.720Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZGNlOWNjYjAtNmI1OS0xMWU2LWJmNGYtMjczNDM4YmRlNTE0",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Here is your mission. Go forth and do great things! Mission 1: Become a DevNet SE Evangelist Become a DevNet SE Evangelist (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) Complete the Learning Track for DNA Programmability Hold your own DevNet Express event",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-26T06:53:58.395Z",
+			"markdown": "<p>Here is your mission. Go forth and do great things!</p>\n<h2>Mission 1: Become a DevNet SE Evangelist</h2>\n<ul>\n<li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li>\n<li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li>\n<li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li>\n</ul>",
+			"html": "<p>Here is your mission. Go forth and do great things!</p><h2>Mission 1: Become a DevNet SE Evangelist</h2><ul><li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li><li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li><li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li></ul>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZDlkYTFiYjAtNmI1OS0xMWU2LTg5ODUtYWY0MGQ1ZDBhYzBj",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me my first mission",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmM2MjE3Zi00YmIwLTRiYzAtYjgzMi03NTBkZWNkOWZlZmQ",
+			"personEmail": "ailiesiu@cisco.com",
+			"created": "2016-08-26T06:53:53.259Z",
+			"html": "<spark-mention data-object-type=\"person\" data-object-id=\"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE\">Devvie</spark-mention> get me my first mission",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYzExM2YxZjAtNmI1OS0xMWU2LWFjYjctZGY5YzVmNzRlMjAz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Hello Adrian",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-26T06:53:11.695Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYmRhOTlkZDAtNmI1OS0xMWU2LThjZWItYjlkYjk4YTNiMTVl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie hi",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9kNmM2MjE3Zi00YmIwLTRiYzAtYjgzMi03NTBkZWNkOWZlZmQ",
+			"personEmail": "ailiesiu@cisco.com",
+			"created": "2016-08-26T06:53:05.965Z",
+			"html": "<spark-mention data-object-type=\"person\" data-object-id=\"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE\">Devvie</spark-mention> hi",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMGZmZTMxYjAtNmI1OC0xMWU2LWIyZWMtNGY0Y2RjN2I5MDhh",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me my first mission",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zMTU1OTU3NS02M2E0LTQwNDMtYjU3OC02Y2IwYzUxOGI4Njc",
+			"personEmail": "tonbeck@cisco.com",
+			"created": "2016-08-26T06:41:05.099Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZWQxMzhlZTAtNmI0Yi0xMWU2LWJmY2MtMTFjODNlM2MxYzc1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me my first mission",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81ZGM5NmJkOC1iYTRmLTQwOTktOGY3Yi00NjA2ZmYwZjE4OTM",
+			"personEmail": "cduetsch@cisco.com",
+			"created": "2016-08-26T05:14:12.558Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNWZhNDdmMDAtNmIxNS0xMWU2LWE2MmYtYWY5ZWRmYWQ4MDI0",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Hi Devvie - Dave Davenport checking in from GSX",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9jMGZhODhjYi1iZTE3LTRlZjItYjJkNS03YjEzYjIwOTI1ZWM",
+			"personEmail": "ddavenpo@cisco.com",
+			"created": "2016-08-25T22:43:42.448Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYWFiNmE2ZjAtNmIwZS0xMWU2LThjZWItYjlkYjk4YTNiMTVl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "@Devvie get me all missions",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8wOTUzY2U5Yy1mOGMzLTRlYzItOTRlZC0wNWI2NDZjMzQxMTM",
+			"personEmail": "nichwhit@cisco.com",
+			"created": "2016-08-25T21:55:41.919Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNzQ1NTk5ZTAtNmIwZS0xMWU2LWE2MmYtYWY5ZWRmYWQ4MDI0",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Thank you Susie!!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mZjhlZTZmYi1hZmVmLTRhNGQtOTJiMS1kNmIyMTZiNTg5NDk",
+			"personEmail": "chrlunsf@cisco.com",
+			"created": "2016-08-25T21:54:10.686Z",
+			"html": "Thank you <spark-mention data-object-type=\"person\" data-object-id=\"Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M\">Susie</spark-mention>!!",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMjNkMGE3ZDAtNmIwZS0xMWU2LWE1MzUtYjczYWRkMDdmYjFi",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie agent Kathleen reporting in",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9jMDg1YzA0OS0yOGU5LTRkYjYtOTZlMy03ZTVlMmNmMDI0Nzc",
+			"personEmail": "knowlin@cisco.com",
+			"created": "2016-08-25T21:51:55.597Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMzQ0YjViMTAtNmFmZS0xMWU2LTg3NzctNjMwYmYyNmNhM2Yz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "👏 ",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84MDE0ZmU2ZC05YWZiLTRmMGItODQ1Ny04MzI4MWUwNTE4OGM",
+			"personEmail": "lauragi2@cisco.com",
+			"created": "2016-08-25T19:57:51.297Z",
+			"html": "👏 "
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZjg5N2U3YjAtNmFmNy0xMWU2LTg5ODUtYWY0MGQ1ZDBhYzBj",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Welcome, Jay G and Chris L! They will help lead the DevNet SE charge!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M",
+			"personEmail": "susiewee@cisco.com",
+			"created": "2016-08-25T19:13:14.155Z",
+			"html": "Welcome, <spark-mention data-object-id=\"2aeec746-78c6-4e82-84e6-8a1ecc475f97\" data-object-type=\"person\">Jay G</spark-mention> and <spark-mention data-object-id=\"ff8ee6fb-afef-4a4d-92b1-d6b216b58949\" data-object-type=\"person\">Chris L</spark-mention>! They will help lead the DevNet SE charge!",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mZjhlZTZmYi1hZmVmLTRhNGQtOTJiMS1kNmIyMTZiNTg5NDk",
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yYWVlYzc0Ni03OGM2LTRlODItODRlNi04YTFlY2M0NzVmOTc"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMGRiYzI4MDAtNmFmNy0xMWU2LWJjNzItYTcyOTQ2Y2ZkMGY1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Welcome Michael Koons!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9iZjdmMTVmMC00YjMwLTRhNDctOGE2OC0yOTRmYTAzZDk3ZTA",
+			"personEmail": "kazyamam@cisco.com",
+			"created": "2016-08-25T19:06:40.128Z",
+			"html": "Welcome <spark-mention data-object-type=\"person\" data-object-id=\"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lNjc1NjNmMC1mOWEwLTRkMDItOThmNy00YTczODIyYjc3YTI\">Michael Koons</spark-mention>!",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lNjc1NjNmMC1mOWEwLTRkMDItOThmNy00YTczODIyYjc3YTI"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZTdiYzc1YTAtNmFlZC0xMWU2LThjZWItYjlkYjk4YTNiMTVl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Welcome to the DevNet SE Mission Possible room, Michael K !",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M",
+			"personEmail": "susiewee@cisco.com",
+			"created": "2016-08-25T18:01:10.906Z",
+			"html": "Welcome to the DevNet SE Mission Possible room, <spark-mention data-object-id=\"e67563f0-f9a0-4d02-98f7-4a73822b77a2\" data-object-type=\"person\">Michael K</spark-mention> !",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lNjc1NjNmMC1mOWEwLTRkMDItOThmNy00YTczODIyYjc3YTI"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNDI0OGE3YjAtNmFlZC0xMWU2LWJjNzItYTcyOTQ2Y2ZkMGY1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me all missions",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YTRkMTg1MS03NWFkLTRkNzUtYjM2NC0yNzU4OGFjOTI3YzA",
+			"personEmail": "josorti2@cisco.com",
+			"created": "2016-08-25T17:56:33.323Z",
+			"html": "Devvie get me all missions"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvM2FiODAyNzAtNmFlZC0xMWU2LTg3NzctNjMwYmYyNmNhM2Yz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "\n",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hMDQxZGY2ZC1iMDk2LTQyMDgtOGQ0Ny1lMDFjMGM4MjQ4Y2E",
+			"personEmail": "joemonte@cisco.com",
+			"created": "2016-08-25T17:56:20.631Z",
+			"html": "\n"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMmI1YTk5NTAtNmFlZC0xMWU2LWE2MmYtYWY5ZWRmYWQ4MDI0",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Thank you, DevNet special agents!!!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M",
+			"personEmail": "susiewee@cisco.com",
+			"created": "2016-08-25T17:55:54.853Z",
+			"html": "Thank you, DevNet special agents!!!"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZjZkNmZlZDAtNmFlYy0xMWU2LTllOTQtNGIzZWFhZjc3MDFl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Here are your missions. Go forth and do great things! Mission 1: Become a DevNet SE Evangelist Become a DevNet SE Evangelist (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) Complete the Learning Track for DNA Programmability Hold your own DevNet Express event Mission 2: Join the DevNet Spark Community Join our DevNet Community and Support Spark Room. Meet developers working with Cisco APIs, and see what questions they are asking To join go here Mission 3: DevNet SE Scavenger Hunt Hack To participate, go to Jive site All the info about how to get started is on the jive site. New challenges daily Join in the Scavenger Hunt Spark room Helpful resources Mission 4: Contribute to Awesome Cisco Spark! Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers. Open resources that are free to use, extend and distribute Includes: Client SDKS in various languages Frameworks to quickly build integrations Code samples ranging from handy scripts to end-to-end demo applications Articles & tutorials Complements Spark for Developers & DevNet What is your role? Be a part of Awesome Cisco Spark community in Github Contribute your projects and make them re-usable Enable Cisco customers and partners to live your ideas How do I get involved? Read the contribution guidelines here Package your code tie it up, remove dead parts, and check it runs add a Readme (how to run, and simple examples) add a Licence (MIT, BSD, Apache will favor reuse Submit your contribution fork This add your Resource entry to the Readme.md submit your PR",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T17:54:26.749Z",
+			"markdown": "<p>Here are your missions. Go forth and do great things!</p>\n<h2>Mission 1: Become a DevNet SE Evangelist</h2>\n<ul>\n<li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li>\n<li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li>\n<li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li>\n</ul>\n<h2>Mission 2: Join the DevNet Spark Community</h2>\n<p>Join our DevNet Community and Support Spark Room.</p>\n<ul>\n<li>Meet developers working with Cisco APIs, and see what questions they are asking</li>\n<li>To join go <a href=\"https://developer.cisco.com/site/spark-chat/\">here</a></li>\n</ul>\n<h2>Mission 3: DevNet SE Scavenger Hunt Hack</h2>\n<p>To participate, go to <a href=\"http://bit.ly/gsx-mini-hack\">Jive site</a></p>\n<ul>\n<li>All the info about how to get started is on the jive site.</li>\n<li>New challenges daily</li>\n<li>Join in the Scavenger Hunt Spark room</li>\n<li><a href=\"https://learninglabs.cisco.com\">Helpful resources</a></li>\n</ul>\n<h2>Mission 4: Contribute to Awesome Cisco Spark!</h2>\n<p>Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers.</p>\n<h3>Open resources that are free to use, extend and distribute Includes:</h3>\n<ul>\n<li>Client SDKS in various languages</li>\n<li>Frameworks to quickly build integrations</li>\n<li>Code samples ranging from handy scripts to end-to-end demo applications</li>\n<li>Articles &amp; tutorials</li>\n<li>Complements Spark for Developers &amp; DevNet </li>\n</ul>\n<h3>What is your role?</h3>\n<ul>\n<li>Be a part of Awesome Cisco Spark community in Github</li>\n<li>Contribute your projects and make them re-usable</li>\n<li>Enable Cisco customers and partners to live your ideas</li>\n</ul>\n<h3>How do I get involved?</h3>\n<ul>\n<li>Read the contribution guidelines <a href=\"https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md\">here</a></li>\n<li>Package your code<ul>\n<li>tie it up, remove dead parts, and check it runs</li>\n<li>add a Readme (how to run, and simple examples) </li>\n<li>add a Licence (MIT, BSD, Apache will favor reuse</li>\n</ul>\n</li>\n<li>Submit your contribution<ul>\n<li><a href=\"https://github.com/CiscoDevNet/awesome-ciscospark\">fork This</a></li>\n<li>add your Resource entry to the Readme.md</li>\n<li>submit your PR</li>\n</ul>\n</li>\n</ul>",
+			"html": "<p>Here are your missions. Go forth and do great things!</p><h2>Mission 1: Become a DevNet SE Evangelist</h2><ul><li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li><li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li><li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li></ul><h2>Mission 2: Join the DevNet Spark Community</h2><p>Join our DevNet Community and Support Spark Room.</p><ul><li>Meet developers working with Cisco APIs, and see what questions they are asking</li><li>To join go <a href=\"https://developer.cisco.com/site/spark-chat/\">here</a></li></ul><h2>Mission 3: DevNet SE Scavenger Hunt Hack</h2><p>To participate, go to <a href=\"http://bit.ly/gsx-mini-hack\">Jive site</a></p><ul><li>All the info about how to get started is on the jive site.</li><li>New challenges daily</li><li>Join in the Scavenger Hunt Spark room</li><li><a href=\"https://learninglabs.cisco.com\">Helpful resources</a></li></ul><h2>Mission 4: Contribute to Awesome Cisco Spark!</h2><p>Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers.</p><h3>Open resources that are free to use, extend and distribute Includes:</h3><ul><li>Client SDKS in various languages</li><li>Frameworks to quickly build integrations</li><li>Code samples ranging from handy scripts to end-to-end demo applications</li><li>Articles &amp; tutorials</li><li>Complements Spark for Developers &amp; DevNet </li></ul><h3>What is your role?</h3><ul><li>Be a part of Awesome Cisco Spark community in Github</li><li>Contribute your projects and make them re-usable</li><li>Enable Cisco customers and partners to live your ideas</li></ul><h3>How do I get involved?</h3><ul><li>Read the contribution guidelines <a href=\"https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md\">here</a></li><li>Package your code<ul><li>tie it up, remove dead parts, and check it runs</li><li>add a Readme (how to run, and simple examples) </li><li>add a Licence (MIT, BSD, Apache will favor reuse</li></ul></li><li>Submit your contribution<ul><li><a href=\"https://github.com/CiscoDevNet/awesome-ciscospark\">fork This</a></li><li>add your Resource entry to the Readme.md</li><li>submit your PR</li></ul></li></ul>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZjM3NjQ3YTAtNmFlYy0xMWU2LTk4NzYtZGQ4NWUzZWQzZGEw",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me all missions",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8xZmMxNzQyOC03ZWZlLTQxZGItODBiZS0zN2EyYTU5ZWZhYTI",
+			"personEmail": "maxalvar@cisco.com",
+			"created": "2016-08-25T17:54:21.082Z",
+			"html": "<spark-mention data-object-id=\"698463e9-90c7-462d-b3e6-75ee77ae945a\" data-object-type=\"person\">Devvie</spark-mention> get me all missions",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvODZmZmRjODAtNmFlYy0xMWU2LWJmNGYtMjczNDM4YmRlNTE0",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Greetings",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8xOTczOWZiNi04NTdlLTQ0NjQtYjUwYS1mOWQxZjkyNTgzNjc",
+			"personEmail": "emzarago@cisco.com",
+			"created": "2016-08-25T17:51:19.112Z",
+			"html": "Greetings"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZGUxYmMwYTAtNmFlMy0xMWU2LWJmZTEtMGJkYjgwNTJiZTAw",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Welcome Agent! To start Ask Devvie for your missions, for example: @Devvie get me all missions @Devvie get me my 1st mission Be sure to tag Devvie to get his attention! Stuck? ask @Devvie help Go forth and do great things!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T16:49:19.786Z",
+			"markdown": "<p><strong>Welcome Agent! To start</strong></p>\n<ul>\n<li>Ask Devvie for your missions, for example:<ul>\n<li>@Devvie get me all missions</li>\n<li>@Devvie get me my 1st mission</li>\n</ul>\n</li>\n<li><strong>Be sure to tag Devvie to get his attention!</strong></li>\n<li>Stuck? ask @Devvie help</li>\n</ul>\n<p><em>Go forth and do great things!</em></p>",
+			"html": "<p><strong>Welcome Agent! To start</strong></p><ul><li>Ask Devvie for your missions, for example:<ul><li>@Devvie get me all missions</li><li>@Devvie get me my 1st mission</li></ul></li><li><strong>Be sure to tag Devvie to get his attention!</strong></li><li>Stuck? ask @Devvie help</li></ul><p><em>Go forth and do great things!</em></p>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZTJjY2EyYjAtNmFkYy0xMWU2LThjZWItYjlkYjk4YTNiMTVl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Yes",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8xOTczOWZiNi04NTdlLTQ0NjQtYjUwYS1mOWQxZjkyNTgzNjc",
+			"personEmail": "emzarago@cisco.com",
+			"created": "2016-08-25T15:59:21.179Z",
+			"html": "Yes"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYjM4ZmU0ODAtNmFkYy0xMWU2LTg3NzctNjMwYmYyNmNhM2Yz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "See you at the closing!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M",
+			"personEmail": "susiewee@cisco.com",
+			"created": "2016-08-25T15:58:01.928Z",
+			"html": "See you at the closing!"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYWU1ODIzNjAtNmFkYy0xMWU2LTg5ODUtYWY0MGQ1ZDBhYzBj",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Good luck getting on the shuttles!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M",
+			"personEmail": "susiewee@cisco.com",
+			"created": "2016-08-25T15:57:53.174Z",
+			"html": "Good luck getting on the shuttles!"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYTA5OTI4MDAtNmFkYy0xMWU2LTllOTQtNGIzZWFhZjc3MDFl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Good morning, DevNet SE Evangelists!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS80ZThkYmU0Zi00ZjVlLTQ2NTUtYjk0Zi0yOTI5NDJlY2I3Y2M",
+			"personEmail": "susiewee@cisco.com",
+			"created": "2016-08-25T15:57:30.112Z",
+			"html": "Good morning, DevNet SE Evangelists!"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNjIyMzI1MjAtNmFjOS0xMWU2LThjZWItYjlkYjk4YTNiMTVl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Interesting",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YzhjZDlkOC0xZTY1LTQ1MTctYjE0My02MTQ2MDg0MWM2Mjk",
+			"personEmail": "jamegill@cisco.com",
+			"created": "2016-08-25T13:39:44.882Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNDQ2ZDhkZTAtNmFjOS0xMWU2LWJmY2MtMTFjODNlM2MxYzc1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Hi There! I am Devvie, DevNet's smart bot. I can: help you start you mission possible: @Devvie get my first missions @Devvie show me my mission #3 @Devvie give me all my missions help you find learning labs @Devvie learning labs i want to learn python @Devvie labs i want to know more about apic @Devvie learning labs where can i teach my customers about networking Interact with me, i'm friendly Don't forget to Mention me (@Devvie) to get my attention",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T13:38:55.038Z",
+			"markdown": "<h2>Hi There! I am Devvie, DevNet's smart bot. I can:</h2>\n<ul>\n<li>help you start you mission possible:<ul>\n<li>@Devvie <strong>get</strong> my first missions</li>\n<li>@Devvie <strong>show</strong> me my mission #3</li>\n<li>@Devvie <strong>give</strong> me all my missions</li>\n</ul>\n</li>\n<li>\n<p>help you find learning labs</p>\n<ul>\n<li>@Devvie <strong>learning labs</strong> i want to learn python</li>\n<li>@Devvie <strong>labs</strong> i want to know more about apic</li>\n<li>@Devvie <strong>learning labs</strong> where can i teach my customers about networking</li>\n</ul>\n</li>\n<li>\n<p><strong> Interact with me, i'm friendly </strong></p>\n</li>\n<li><strong> Don't forget to Mention me (@Devvie) to get my attention </strong></li>\n</ul>",
+			"html": "<h2>Hi There! I am Devvie, DevNet's smart bot. I can:</h2><ul><li>help you start you mission possible:<ul><li>@Devvie <strong>get</strong> my first missions</li><li>@Devvie <strong>show</strong> me my mission #3</li><li>@Devvie <strong>give</strong> me all my missions</li></ul></li><li><p>help you find learning labs</p><ul><li>@Devvie <strong>learning labs</strong> i want to learn python</li><li>@Devvie <strong>labs</strong> i want to know more about apic</li><li>@Devvie <strong>learning labs</strong> where can i teach my customers about networking</li></ul></li><li><p><strong> Interact with me, i'm friendly </strong></p></li><li><strong> Don't forget to Mention me (@Devvie) to get my attention </strong></li></ul>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNDE0MzllMjAtNmFjOS0xMWU2LThjYzMtNDNjN2YwMTcwMjcz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie / help",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mOTgxYTZjOS1kOGM3LTRhYWQtYTcwZi0xNGNiYmM4YTFiOWI",
+			"personEmail": "egelber@cisco.com",
+			"created": "2016-08-25T13:38:49.730Z",
+			"html": "<spark-mention data-object-id=\"698463e9-90c7-462d-b3e6-75ee77ae945a\" data-object-type=\"person\">Devvie</spark-mention> / help",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOWUxZTcwOTAtNmFjNy0xMWU2LWE1MzUtYjczYWRkMDdmYjFi",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "you can also chat with Devvie 1:1 (help function still doesn't work)",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YzhjZDlkOC0xZTY1LTQ1MTctYjE0My02MTQ2MDg0MWM2Mjk",
+			"personEmail": "jamegill@cisco.com",
+			"created": "2016-08-25T13:27:06.521Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvODRlMjdhOTAtNmFjNy0xMWU2LWE1MzUtYjczYWRkMDdmYjFi",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "James Gill you have to type @devvie and then you have to tag Devvie after you've typed Devvie ;-) make sense?",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9mOTgxYTZjOS1kOGM3LTRhYWQtYTcwZi0xNGNiYmM4YTFiOWI",
+			"personEmail": "egelber@cisco.com",
+			"created": "2016-08-25T13:26:24.185Z",
+			"html": "<spark-mention data-object-id=\"9c8cd9d8-1e65-4517-b143-61460841c629\" data-object-type=\"person\">James Gill</spark-mention> you have to type @devvie and then you have to tag Devvie after you&apos;ve typed <spark-mention data-object-id=\"698463e9-90c7-462d-b3e6-75ee77ae945a\" data-object-type=\"person\">Devvie</spark-mention> ;-) make sense?",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YzhjZDlkOC0xZTY1LTQ1MTctYjE0My02MTQ2MDg0MWM2Mjk",
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNDYyOWMxMDAtNmFjMi0xMWU2LWFjYjctZGY5YzVmNzRlMjAz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"files": [
+				"https://api.ciscospark.com/v1/contents/Y2lzY29zcGFyazovL3VzL0NPTlRFTlQvNDYyOWMxMDAtNmFjMi0xMWU2LWFjYjctZGY5YzVmNzRlMjAzLzA"
+			],
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YzhjZDlkOC0xZTY1LTQ1MTctYjE0My02MTQ2MDg0MWM2Mjk",
+			"personEmail": "jamegill@cisco.com",
+			"created": "2016-08-25T12:48:51.472Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvM2Q1OGZhYTAtNmFjMi0xMWU2LWE1MzUtYjczYWRkMDdmYjFi",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie, between you and Spark there's a hypertext formatting problem … links don't work. And \"help\" returns nothing.",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YzhjZDlkOC0xZTY1LTQ1MTctYjE0My02MTQ2MDg0MWM2Mjk",
+			"personEmail": "jamegill@cisco.com",
+			"created": "2016-08-25T12:48:36.682Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMTlmNDRmNjAtNmFjMi0xMWU2LThjZWItYjlkYjk4YTNiMTVl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie help",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS85YzhjZDlkOC0xZTY1LTQ1MTctYjE0My02MTQ2MDg0MWM2Mjk",
+			"personEmail": "jamegill@cisco.com",
+			"created": "2016-08-25T12:47:37.302Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZTE2ZTEwZDAtNmE5Zi0xMWU2LThjYzMtNDNjN2YwMTcwMjcz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie agent Rhodri reporting in",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8xZGMxY2IxZi1kNGQzLTQ1YmMtYTJiYi0yM2IyN2JiZjgzNmM",
+			"personEmail": "rhgriffi@cisco.com",
+			"created": "2016-08-25T08:42:39.581Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYWI0ZjY0YzAtNmE2Zi0xMWU2LWJmY2MtMTFjODNlM2MxYzc1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Here are your missions. Go forth and do great things! Mission 1: Become a DevNet SE Evangelist Become a DevNet SE Evangelist (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) Complete the Learning Track for DNA Programmability Hold your own DevNet Express event Mission 2: Join the DevNet Spark Community Join our DevNet Community and Support Spark Room. Meet developers working with Cisco APIs, and see what questions they are asking To join go here Mission 3: DevNet SE Scavenger Hunt Hack To participate, go to Jive site All the info about how to get started is on the jive site. New challenges daily Join in the Scavenger Hunt Spark room Helpful resources Mission 4: Contribute to Awesome Cisco Spark! Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers. Open resources that are free to use, extend and distribute Includes: Client SDKS in various languages Frameworks to quickly build integrations Code samples ranging from handy scripts to end-to-end demo applications Articles & tutorials Complements Spark for Developers & DevNet What is your role? Be a part of Awesome Cisco Spark community in Github Contribute your projects and make them re-usable Enable Cisco customers and partners to live your ideas How do I get involved? Read the contribution guidelines here Package your code tie it up, remove dead parts, and check it runs add a Readme (how to run, and simple examples) add a Licence (MIT, BSD, Apache will favor reuse Submit your contribution fork This add your Resource entry to the Readme.md submit your PR",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T02:57:32.940Z",
+			"markdown": "<p>Here are your missions. Go forth and do great things!</p>\n<h2>Mission 1: Become a DevNet SE Evangelist</h2>\n<ul>\n<li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li>\n<li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li>\n<li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li>\n</ul>\n<h2>Mission 2: Join the DevNet Spark Community</h2>\n<p>Join our DevNet Community and Support Spark Room.</p>\n<ul>\n<li>Meet developers working with Cisco APIs, and see what questions they are asking</li>\n<li>To join go <a href=\"https://developer.cisco.com/site/spark-chat/\">here</a></li>\n</ul>\n<h2>Mission 3: DevNet SE Scavenger Hunt Hack</h2>\n<p>To participate, go to <a href=\"http://bit.ly/gsx-mini-hack\">Jive site</a></p>\n<ul>\n<li>All the info about how to get started is on the jive site.</li>\n<li>New challenges daily</li>\n<li>Join in the Scavenger Hunt Spark room</li>\n<li><a href=\"https://learninglabs.cisco.com\">Helpful resources</a></li>\n</ul>\n<h2>Mission 4: Contribute to Awesome Cisco Spark!</h2>\n<p>Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers.</p>\n<h3>Open resources that are free to use, extend and distribute Includes:</h3>\n<ul>\n<li>Client SDKS in various languages</li>\n<li>Frameworks to quickly build integrations</li>\n<li>Code samples ranging from handy scripts to end-to-end demo applications</li>\n<li>Articles &amp; tutorials</li>\n<li>Complements Spark for Developers &amp; DevNet </li>\n</ul>\n<h3>What is your role?</h3>\n<ul>\n<li>Be a part of Awesome Cisco Spark community in Github</li>\n<li>Contribute your projects and make them re-usable</li>\n<li>Enable Cisco customers and partners to live your ideas</li>\n</ul>\n<h3>How do I get involved?</h3>\n<ul>\n<li>Read the contribution guidelines <a href=\"https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md\">here</a></li>\n<li>Package your code<ul>\n<li>tie it up, remove dead parts, and check it runs</li>\n<li>add a Readme (how to run, and simple examples) </li>\n<li>add a Licence (MIT, BSD, Apache will favor reuse</li>\n</ul>\n</li>\n<li>Submit your contribution<ul>\n<li><a href=\"https://github.com/CiscoDevNet/awesome-ciscospark\">fork This</a></li>\n<li>add your Resource entry to the Readme.md</li>\n<li>submit your PR</li>\n</ul>\n</li>\n</ul>",
+			"html": "<p>Here are your missions. Go forth and do great things!</p><h2>Mission 1: Become a DevNet SE Evangelist</h2><ul><li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li><li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li><li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li></ul><h2>Mission 2: Join the DevNet Spark Community</h2><p>Join our DevNet Community and Support Spark Room.</p><ul><li>Meet developers working with Cisco APIs, and see what questions they are asking</li><li>To join go <a href=\"https://developer.cisco.com/site/spark-chat/\">here</a></li></ul><h2>Mission 3: DevNet SE Scavenger Hunt Hack</h2><p>To participate, go to <a href=\"http://bit.ly/gsx-mini-hack\">Jive site</a></p><ul><li>All the info about how to get started is on the jive site.</li><li>New challenges daily</li><li>Join in the Scavenger Hunt Spark room</li><li><a href=\"https://learninglabs.cisco.com\">Helpful resources</a></li></ul><h2>Mission 4: Contribute to Awesome Cisco Spark!</h2><p>Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers.</p><h3>Open resources that are free to use, extend and distribute Includes:</h3><ul><li>Client SDKS in various languages</li><li>Frameworks to quickly build integrations</li><li>Code samples ranging from handy scripts to end-to-end demo applications</li><li>Articles &amp; tutorials</li><li>Complements Spark for Developers &amp; DevNet </li></ul><h3>What is your role?</h3><ul><li>Be a part of Awesome Cisco Spark community in Github</li><li>Contribute your projects and make them re-usable</li><li>Enable Cisco customers and partners to live your ideas</li></ul><h3>How do I get involved?</h3><ul><li>Read the contribution guidelines <a href=\"https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md\">here</a></li><li>Package your code<ul><li>tie it up, remove dead parts, and check it runs</li><li>add a Readme (how to run, and simple examples) </li><li>add a Licence (MIT, BSD, Apache will favor reuse</li></ul></li><li>Submit your contribution<ul><li><a href=\"https://github.com/CiscoDevNet/awesome-ciscospark\">fork This</a></li><li>add your Resource entry to the Readme.md</li><li>submit your PR</li></ul></li></ul>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvYTdmYjMwYjAtNmE2Zi0xMWU2LWIyZWMtNGY0Y2RjN2I5MDhh",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me all missions",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8xNWFjYWQwMy04MmNjLTQ4MWItYTMxZi02NGUwNWFjNzM3NzI",
+			"personEmail": "kiskande@cisco.com",
+			"created": "2016-08-25T02:57:27.355Z",
+			"html": "<spark-mention data-object-id=\"698463e9-90c7-462d-b3e6-75ee77ae945a\" data-object-type=\"person\">Devvie</spark-mention> get me all missions",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOTBiZGM5ZDAtNmE2Zi0xMWU2LWJjNzItYTcyOTQ2Y2ZkMGY1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me all missions",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8wZGVlNmRhMi1lY2IzLTRhOGYtYTI1NS1iYmRjOWMwOTRiMTY",
+			"personEmail": "rogarci2@cisco.com",
+			"created": "2016-08-25T02:56:48.365Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvOThmYWY4MzAtNmE2ZS0xMWU2LThjYzMtNDNjN2YwMTcwMjcz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "@devvie ",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hODcwYjEwZC1lMzI3LTRlNjUtYjhmYi1jODlmMGM0ODRjNWU",
+			"personEmail": "chunhwon@cisco.com",
+			"created": "2016-08-25T02:49:52.691Z",
+			"html": "@devvie "
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvM2EzNjU0ZjAtNmE2MS0xMWU2LWFlY2UtZjcyNTNmMWE0NGM0",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Here are your missions. Go forth and do great things! Mission 1: Become a DevNet SE Evangelist Become a DevNet SE Evangelist (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) Complete the Learning Track for DNA Programmability Hold your own DevNet Express event Mission 2: Join the DevNet Spark Community Join our DevNet Community and Support Spark Room. Meet developers working with Cisco APIs, and see what questions they are asking To join go here Mission 3: DevNet SE Scavenger Hunt Hack To participate, go to Jive site All the info about how to get started is on the jive site. New challenges daily Join in the Scavenger Hunt Spark room Helpful resources Mission 4: Contribute to Awesome Cisco Spark! Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers. Open resources that are free to use, extend and distribute Includes: Client SDKS in various languages Frameworks to quickly build integrations Code samples ranging from handy scripts to end-to-end demo applications Articles & tutorials Complements Spark for Developers & DevNet What is your role? Be a part of Awesome Cisco Spark community in Github Contribute your projects and make them re-usable Enable Cisco customers and partners to live your ideas How do I get involved? Read the contribution guidelines here Package your code tie it up, remove dead parts, and check it runs add a Readme (how to run, and simple examples) add a Licence (MIT, BSD, Apache will favor reuse Submit your contribution fork This add your Resource entry to the Readme.md submit your PR",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T01:14:10.239Z",
+			"markdown": "<p>Here are your missions. Go forth and do great things!</p>\n<h2>Mission 1: Become a DevNet SE Evangelist</h2>\n<ul>\n<li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li>\n<li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li>\n<li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li>\n</ul>\n<h2>Mission 2: Join the DevNet Spark Community</h2>\n<p>Join our DevNet Community and Support Spark Room.</p>\n<ul>\n<li>Meet developers working with Cisco APIs, and see what questions they are asking</li>\n<li>To join go <a href=\"https://developer.cisco.com/site/spark-chat/\">here</a></li>\n</ul>\n<h2>Mission 3: DevNet SE Scavenger Hunt Hack</h2>\n<p>To participate, go to <a href=\"http://bit.ly/gsx-mini-hack\">Jive site</a></p>\n<ul>\n<li>All the info about how to get started is on the jive site.</li>\n<li>New challenges daily</li>\n<li>Join in the Scavenger Hunt Spark room</li>\n<li><a href=\"https://learninglabs.cisco.com\">Helpful resources</a></li>\n</ul>\n<h2>Mission 4: Contribute to Awesome Cisco Spark!</h2>\n<p>Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers.</p>\n<h3>Open resources that are free to use, extend and distribute Includes:</h3>\n<ul>\n<li>Client SDKS in various languages</li>\n<li>Frameworks to quickly build integrations</li>\n<li>Code samples ranging from handy scripts to end-to-end demo applications</li>\n<li>Articles &amp; tutorials</li>\n<li>Complements Spark for Developers &amp; DevNet </li>\n</ul>\n<h3>What is your role?</h3>\n<ul>\n<li>Be a part of Awesome Cisco Spark community in Github</li>\n<li>Contribute your projects and make them re-usable</li>\n<li>Enable Cisco customers and partners to live your ideas</li>\n</ul>\n<h3>How do I get involved?</h3>\n<ul>\n<li>Read the contribution guidelines <a href=\"https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md\">here</a></li>\n<li>Package your code<ul>\n<li>tie it up, remove dead parts, and check it runs</li>\n<li>add a Readme (how to run, and simple examples) </li>\n<li>add a Licence (MIT, BSD, Apache will favor reuse</li>\n</ul>\n</li>\n<li>Submit your contribution<ul>\n<li><a href=\"https://github.com/CiscoDevNet/awesome-ciscospark\">fork This</a></li>\n<li>add your Resource entry to the Readme.md</li>\n<li>submit your PR</li>\n</ul>\n</li>\n</ul>",
+			"html": "<p>Here are your missions. Go forth and do great things!</p><h2>Mission 1: Become a DevNet SE Evangelist</h2><ul><li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li><li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li><li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li></ul><h2>Mission 2: Join the DevNet Spark Community</h2><p>Join our DevNet Community and Support Spark Room.</p><ul><li>Meet developers working with Cisco APIs, and see what questions they are asking</li><li>To join go <a href=\"https://developer.cisco.com/site/spark-chat/\">here</a></li></ul><h2>Mission 3: DevNet SE Scavenger Hunt Hack</h2><p>To participate, go to <a href=\"http://bit.ly/gsx-mini-hack\">Jive site</a></p><ul><li>All the info about how to get started is on the jive site.</li><li>New challenges daily</li><li>Join in the Scavenger Hunt Spark room</li><li><a href=\"https://learninglabs.cisco.com\">Helpful resources</a></li></ul><h2>Mission 4: Contribute to Awesome Cisco Spark!</h2><p>Awesome Cisco Spark! is our community project to create a catalog of open resources for Spark developers.</p><h3>Open resources that are free to use, extend and distribute Includes:</h3><ul><li>Client SDKS in various languages</li><li>Frameworks to quickly build integrations</li><li>Code samples ranging from handy scripts to end-to-end demo applications</li><li>Articles &amp; tutorials</li><li>Complements Spark for Developers &amp; DevNet </li></ul><h3>What is your role?</h3><ul><li>Be a part of Awesome Cisco Spark community in Github</li><li>Contribute your projects and make them re-usable</li><li>Enable Cisco customers and partners to live your ideas</li></ul><h3>How do I get involved?</h3><ul><li>Read the contribution guidelines <a href=\"https://github.com/CiscoDevNet/awesome-ciscospark/blob/master/CONTRIBUTING.md\">here</a></li><li>Package your code<ul><li>tie it up, remove dead parts, and check it runs</li><li>add a Readme (how to run, and simple examples) </li><li>add a Licence (MIT, BSD, Apache will favor reuse</li></ul></li><li>Submit your contribution<ul><li><a href=\"https://github.com/CiscoDevNet/awesome-ciscospark\">fork This</a></li><li>add your Resource entry to the Readme.md</li><li>submit your PR</li></ul></li></ul>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvMzZmNjQ1MjAtNmE2MS0xMWU2LTkwNDMtYmI3MjRiZTYwNTg2",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me all missions",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84MDE0ZmU2ZC05YWZiLTRmMGItODQ1Ny04MzI4MWUwNTE4OGM",
+			"personEmail": "lauragi2@cisco.com",
+			"created": "2016-08-25T01:14:04.786Z",
+			"html": "<spark-mention data-object-type=\"person\" data-object-id=\"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE\">Devvie</spark-mention> get me all missions",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNmFjZDg0ZjAtNmE1Zi0xMWU2LTg5ODUtYWY0MGQ1ZDBhYzBj",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Here is your mission. Go forth and do great things! Mission 1: Become a DevNet SE Evangelist Become a DevNet SE Evangelist (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) Complete the Learning Track for DNA Programmability Hold your own DevNet Express event",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T01:01:12.767Z",
+			"markdown": "<p>Here is your mission. Go forth and do great things!</p>\n<h2>Mission 1: Become a DevNet SE Evangelist</h2>\n<ul>\n<li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li>\n<li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li>\n<li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li>\n</ul>",
+			"html": "<p>Here is your mission. Go forth and do great things!</p><h2>Mission 1: Become a DevNet SE Evangelist</h2><ul><li><a href=\"https://developer.cisco.com\">Become a DevNet SE Evangelist</a> (by joining DevNet and identifying yourself as a Cisco SE and evangelizing) </li><li><a href=\"https://learninglabs.cisco.com/tracks/devnet-express-dna\">Complete the Learning Track for DNA Programmability</a></li><li><a href=\"https://cisco.jiveon.com/groups/devnet-in-a-box\">Hold your own DevNet Express event</a></li></ul>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNjZmMTgzNDAtNmE1Zi0xMWU2LWJmY2MtMTFjODNlM2MxYzc1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie get me my 1st mission",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zY2YxMjY0Yi02ZTJlLTRhYTYtOTcwMy02NTE2MDY0NTJmYjY",
+			"personEmail": "bolevy@cisco.com",
+			"created": "2016-08-25T01:01:06.292Z",
+			"html": "<spark-mention data-object-type=\"person\" data-object-id=\"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE\">Devvie</spark-mention> get me my 1st mission",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNjQ5NzhkYjAtNmE1Zi0xMWU2LTg3NzctNjMwYmYyNmNhM2Yz",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "@devvie get me all missions",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8yNjhiYTVjMS1lOWY0LTQzZWMtYjNhNC1mMGNjYjUzOWQxZmU",
+			"personEmail": "jgoecke@cisco.com",
+			"created": "2016-08-25T01:01:02.347Z",
+			"html": "@devvie get me all missions"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNTMyOTQ1ZjAtNmE1Zi0xMWU2LWFlY2UtZjcyNTNmMWE0NGM0",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Welcome Agent! To start Ask Devvie for your missions, for example: @Devvie get me all missions @Devvie get me my 1st mission Be sure to tag Devvie to get his attention! Stuck? ask @Devvie help Go forth and do great things!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T01:00:33.103Z",
+			"markdown": "<p><strong>Welcome Agent! To start</strong></p>\n<ul>\n<li>Ask Devvie for your missions, for example:<ul>\n<li>@Devvie get me all missions</li>\n<li>@Devvie get me my 1st mission</li>\n</ul>\n</li>\n<li><strong>Be sure to tag Devvie to get his attention!</strong></li>\n<li>Stuck? ask @Devvie help</li>\n</ul>\n<p><em>Go forth and do great things!</em></p>",
+			"html": "<p><strong>Welcome Agent! To start</strong></p><ul><li>Ask Devvie for your missions, for example:<ul><li>@Devvie get me all missions</li><li>@Devvie get me my 1st mission</li></ul></li><li><strong>Be sure to tag Devvie to get his attention!</strong></li><li>Stuck? ask @Devvie help</li></ul><p><em>Go forth and do great things!</em></p>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNGZmNjU1ODAtNmE1Zi0xMWU2LWJmY2MtMTFjODNlM2MxYzc1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie agent Bob L reporting in",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zY2YxMjY0Yi02ZTJlLTRhYTYtOTcwMy02NTE2MDY0NTJmYjY",
+			"personEmail": "bolevy@cisco.com",
+			"created": "2016-08-25T01:00:27.736Z",
+			"html": "<spark-mention data-object-type=\"person\" data-object-id=\"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE\">Devvie</spark-mention> agent Bob L reporting in",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvZjQxYjUxYzAtNmE1ZS0xMWU2LTk4NzYtZGQ4NWUzZWQzZGEw",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "@devvie agent Bob L reporting in",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zY2YxMjY0Yi02ZTJlLTRhYTYtOTcwMy02NTE2MDY0NTJmYjY",
+			"personEmail": "bolevy@cisco.com",
+			"created": "2016-08-25T00:57:53.628Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNzI4MzgxZjAtNmE1ZS0xMWU2LWJmY2MtMTFjODNlM2MxYzc1",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie agent Bob L reporting in",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS8zY2YxMjY0Yi02ZTJlLTRhYTYtOTcwMy02NTE2MDY0NTJmYjY",
+			"personEmail": "bolevy@cisco.com",
+			"created": "2016-08-25T00:54:16.207Z"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNjBkMjhiZTAtNmE1ZS0xMWU2LThjZWItYjlkYjk4YTNiMTVl",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Welcome Agent! To start Ask Devvie for your missions, for example: @Devvie get me all missions @Devvie get me my 1st mission Be sure to tag Devvie to get his attention! Stuck? ask @Devvie help Go forth and do great things!",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE",
+			"personEmail": "Devvie@sparkbot.io",
+			"created": "2016-08-25T00:53:46.526Z",
+			"markdown": "<p><strong>Welcome Agent! To start</strong></p>\n<ul>\n<li>Ask Devvie for your missions, for example:<ul>\n<li>@Devvie get me all missions</li>\n<li>@Devvie get me my 1st mission</li>\n</ul>\n</li>\n<li><strong>Be sure to tag Devvie to get his attention!</strong></li>\n<li>Stuck? ask @Devvie help</li>\n</ul>\n<p><em>Go forth and do great things!</em></p>",
+			"html": "<p><strong>Welcome Agent! To start</strong></p><ul><li>Ask Devvie for your missions, for example:<ul><li>@Devvie get me all missions</li><li>@Devvie get me my 1st mission</li></ul></li><li><strong>Be sure to tag Devvie to get his attention!</strong></li><li>Stuck? ask @Devvie help</li></ul><p><em>Go forth and do great things!</em></p>"
+		},
+		{
+			"id": "Y2lzY29zcGFyazovL3VzL01FU1NBR0UvNWQ1OGE3NjAtNmE1ZS0xMWU2LWJmZTEtMGJkYjgwNTJiZTAw",
+			"roomId": "Y2lzY29zcGFyazovL3VzL1JPT00vMDRkYWVlNzAtNjYzNy0xMWU2LTg5MjctNzNmNDA1ZmYxOTkw",
+			"roomType": "group",
+			"text": "Devvie agent  Eric T reporting in",
+			"personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS81YjQyNWI2NC1kZGFmLTQ5NmYtODE5Yi1jNTgzMTU5MmRhN2Y",
+			"personEmail": "ertrolan@cisco.com",
+			"created": "2016-08-25T00:53:40.694Z",
+			"html": "<spark-mention data-object-id=\"698463e9-90c7-462d-b3e6-75ee77ae945a\" data-object-type=\"person\">Devvie</spark-mention> agent  Eric T reporting in",
+			"mentionedPeople": [
+				"Y2lzY29zcGFyazovL3VzL1BFT1BMRS82OTg0NjNlOS05MGM3LTQ2MmQtYjNlNi03NWVlNzdhZTk0NWE"
+			]
+		}
+	]

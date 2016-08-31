@@ -1,0 +1,54 @@
+<html>
+<head>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js"></script>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+
+<div id="body">
+    <img src="/static/img/bg.png" alt="" width="100%" height="100%">
+    <img src="/static/img/image6.png" alt="" id="indicator">
+    <h1 id="number">0</h1>
+    <h1 id="text">Become a DevNet Secret Agent <br>
+        Text your Cisco Spark email address to</h1>
+    <h1 id="phone">+1-601-202-0496</h1>
+</div>
+<script type="text/javascript">
+
+    var indicator = document.getElementById("indicator");
+    var numberEl = document.getElementById("number");
+    var textEl = document.getElementById("text");
+    var phoneEl = document.getElementById("phone");
+    var url = "/count";
+    var maxNumber = 3000;
+
+
+    function loop() {
+        $.get(url, function (data) {
+            updateUI(parseInt(data));
+            setTimeout(loop, 1000)
+        })
+    }
+
+    function updateUI(number) {
+        indicator.style.left = (0.97 - Math.min(number, maxNumber) / maxNumber * .97) * -100 + "%";
+        numberEl.innerHTML = number;
+        var width = indicator.getBoundingClientRect().width;
+        numberEl.style.fontSize = width * .08;
+        textEl.style.fontSize = width * .04;
+        phoneEl.style.fontSize = width * .08;
+        console.log(number);
+    }
+
+
+    $(function () {
+        updateUI(0);
+        loop();
+    })
+
+
+</script>
+
+
+</body>
+</html>
